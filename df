@@ -1,0 +1,31 @@
+[33m0c9f47a[m Recovered hamburger.md
+ hamburger.md | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+[33m949b622[m Organised recipes in a folder
+ pancakes.md => desserts/pancakes.md | 0
+ tiramisu.md => desserts/tiramisu.md | 0
+ tomato-soup.md => soups/tomato.md   | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+[33m2168353[m Did some changes to some recipes
+ nasi-goreng.md | 2 [32m+[m[31m-[m
+ pancakes.md    | 6 [32m++++[m[31m--[m
+ 2 files changed, 5 insertions(+), 3 deletions(-)
+[33m4949819[m Removed unhealthy foods
+ hamburger.md | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+[33m9e18710[m New recipe for tomato soup added
+ tomato-soup.md | 18 [32m++++++++++++++++++[m
+ 1 file changed, 18 insertions(+)
+[33m89e63b2[m Added some deserts
+ pancakes.md | 18 [32m++++++++++++++++++[m
+ tiramisu.md | 24 [32m++++++++++++++++++++++++[m
+ 2 files changed, 42 insertions(+)
+[33mef3c213[m Italian food is nice: spaghetti bolognese
+ spaghetti-bolognese.md | 32 [32m++++++++++++++++++++++++++++++++[m
+ 1 file changed, 32 insertions(+)
+[33m99d73fb[m new asian recipe
+ nasi-goreng.md | 28 [32m++++++++++++++++++++++++++++[m
+ 1 file changed, 28 insertions(+)
+[33mfc04aa4[m Added the juiciest hamburger ever!
+ hamburger.md | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
